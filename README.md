@@ -35,4 +35,4 @@ This image may take a few minutes to refresh.
 
 Main micro:bit sends digits of pi while other 10 Microbits (in the same radio group) are counting digits (one Microbit for each digit: 0,1,2,...,9).  
 
-This is the program for the main Microbit which sending the digits of pi (automatically)
+This is the program for the main Microbit which sends the digits of pi (automatically)
